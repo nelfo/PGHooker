@@ -1,7 +1,6 @@
 #pragma once
 
 #include <Windows.h>
-#include <mutex>
 #include <list>
 
 #ifdef _WIN64
